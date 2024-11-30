@@ -1,5 +1,7 @@
 body{
     background-color: lightgrey;
+body{
+    background-color: lightgrey;
     color: black;
 }
 .center{
@@ -9,16 +11,25 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
-.video{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    width: 50%;
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+.nav-color{
+    background-color: burlywood;
 }
 .heathen{
-    background-color:black;
+    background-color: black;
+}
+.margin-who{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.divider{
+    height: 100px;
+}
+.footer{
+    height:100px;
+    color: lightgray;
 }
