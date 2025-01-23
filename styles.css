@@ -1,5 +1,4 @@
-
-.main{
+body{
     background-color: lightgrey;
     color: black;
 }
@@ -31,4 +30,26 @@
 .footer{
     height:100px;
     color: lightgray;
+}
+.responsive{
+    width:100%;
+    height:auto;
+}
+.background{
+    background-image: url('nexus_background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.box{
+    text-align:center;
+}
+#div-margin{
+    margin: 200px;
+}
+#poem{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    size: 100px;
 }
